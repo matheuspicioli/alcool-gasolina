@@ -35,3 +35,7 @@ lib/generated_plugin_registrant.dart
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+# INFO KEYSTORE ANDROID
+/android/key.properties
+/android/app/key-store-default-flutter.jks
